@@ -15,5 +15,6 @@ module.exports = {
     ecmaVersion: 12,
   },
   rules: {
+    'import/extensions': 'off',
   },
 };
